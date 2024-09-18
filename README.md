@@ -1,6 +1,6 @@
-# covid19app
+# COVID 19 APP
 
-A new Flutter project.
+My First Flutter Project which i created with REST Apis.
 
 ## Getting Started
 
